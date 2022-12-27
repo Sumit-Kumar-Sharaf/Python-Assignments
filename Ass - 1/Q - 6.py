@@ -1,0 +1,2 @@
+print('"MySirG"')
+print("\"MySirG\"")
